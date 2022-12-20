@@ -6,7 +6,8 @@ body{
     margin-bottom: 0;
    }
 #strainn{
-background-color: white;
+background-color: black;
+   padding-bottom: 1px;
 }
 .strain {
     width: 155px;
